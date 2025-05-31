@@ -1,4 +1,4 @@
- #!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 Script de configuração para a IA de Análise de Replays.
 Este script instala todas as dependências necessárias e configura o ambiente.

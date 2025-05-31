@@ -1,6 +1,4 @@
-
 """
-
 Módulo principal para integração de todos os componentes do analisador de replays.
 Este script integra parser, análise e visualização em um fluxo completo.
 """
